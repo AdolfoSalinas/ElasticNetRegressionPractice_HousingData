@@ -1,2 +1,3 @@
 # ElasticNetRegressionPractice_HousingData
-A Practice problem with elastic net regression
+
+An elastic net regression to predict home prices with grid search
