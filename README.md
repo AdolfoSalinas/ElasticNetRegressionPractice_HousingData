@@ -1,4 +1,4 @@
-# ElasticNetRegressionPractice_HousingData
+# Elastic Net Regression Housing Data
 
 An elastic net regression to predict home prices with grid search
 
